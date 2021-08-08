@@ -1,1 +1,2 @@
-# wk2-showcase
+About Me
+Live Portfolio Showcase
